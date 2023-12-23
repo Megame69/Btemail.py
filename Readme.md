@@ -11,9 +11,11 @@ It also filters successful logins for specific keywords and saves them to separa
    cd email-login-checker
 
 2. install dependencies.
+
 pip install smtplib
 
 3. Configure Script:
+
 Open the script (email_login_checker.py) and modify the following:
 
 SMTP server details in the check_email_login function based on your email provider 
